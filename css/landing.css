@@ -55,6 +55,8 @@ h3{font-size: 30px;font-weight: 300}
 	max-width: 600px;
 }
 
+.
+
 /*phone*/
 @media (max-width: 767px) {
 	.navbar-fixed-top + section{
@@ -69,4 +71,26 @@ h3{font-size: 30px;font-weight: 300}
 	.h1 {
         font-size: 20px;
     }
+}
+
+.logo_li{
+	margin-bottom: 1em;
+}
+
+.logo_div{
+	width: 300px;
+}
+
+.text_div{
+
+}
+
+.logo_pic{
+	height: 50px;
+}
+
+a{
+	:hover{
+		color:red !important;
+	}
 }
